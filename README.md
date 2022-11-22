@@ -1,4 +1,4 @@
-Inspired by official Netflix website.
+Inspired by official Netflix website interface.
 Built by using HTML5, CSS3 and JavaScript(jQuery).
 From HTML5 are used header, div, paragraph, nav, button tags.
 From CSS is used owl.carrosel library and to make friendly user in different devices is used responsive method.
