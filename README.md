@@ -1,3 +1,5 @@
+# Netflix Interface Clone
+
 Inspired by official Netflix website interface.
 Built by using HTML5, CSS3 and JavaScript(jQuery).
 From HTML5 are used header, div, paragraph, nav, button tags.
